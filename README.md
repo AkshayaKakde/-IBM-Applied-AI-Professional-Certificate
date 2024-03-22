@@ -1,1 +1,1 @@
-# -IBM-Applied-AI-Professional-Certificate
+# IBM-Applied-AI-Professional-Certificate
