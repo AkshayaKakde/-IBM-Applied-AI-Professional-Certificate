@@ -1,4 +1,4 @@
-# IBM-Applied-AI-Professional-Certificate
+# 🤖 IBM-Applied-AI-Professional-Certificate 🎓
 by **IBM**
 
 **Author : Akshaya Kakde**
@@ -9,18 +9,26 @@ Throughout these courses, I've delved into the intricacies of AI technologies, e
 
 **Key highlights of this repository include :**
 
-- Introduction to Artificial Intelligence (AI) : Explores the fundamental impact of AI across various sectors, from healthcare and education to law enforcement and customer service.
-- Generative AI: Introduction and Applications : Provides a deep dive into the capabilities and applications of Generative AI, covering basic concepts, industry applications, and hands-on experience with cutting-edge tools.
-- Generative AI : Prompt Engineering Basics : Delves into the crucial aspect of prompt engineering in generative AI, offering insights into crafting effective prompts to optimize model performance.
-- Building AI Powered Chatbots Without Programming : Equips learners with the skills to create AI-powered chatbots without any programming background, covering topics such as natural language processing (NLP), chatbot building platforms, and real-world deployment.
-- Python for Data Science, AI & Development : Covers essential Python skills necessary for data science, artificial intelligence, and software development, including data manipulation, machine learning, and web development.
-- Developing AI Applications with Python and Flask : Provides a comprehensive introduction to Python programming language and its applications in data science, AI, and web development, with hands-on experience in various Python libraries.
-- Building AI Applications with Watson APIs : Focuses on leveraging Watson APIs to develop AI applications, covering topics such as natural language understanding, language translation, visual recognition, and conversational interfaces.
-- Each course is accompanied by practical projects and hands-on experience, demonstrating the application of learned concepts in real-world scenarios.
+*- Introduction to Artificial Intelligence (AI) :* Explores the fundamental impact of AI across various sectors, from healthcare and education to law enforcement and customer service.
 
+*- Generative AI: Introduction and Applications :* Provides a deep dive into the capabilities and applications of Generative AI, covering basic concepts, industry applications, and hands-on experience with cutting-edge tools.
+
+*- Generative AI : Prompt Engineering Basics :* Delves into the crucial aspect of prompt engineering in generative AI, offering insights into crafting effective prompts to optimize model performance.
+
+*- Building AI Powered Chatbots Without Programming :* Equips learners with the skills to create AI-powered chatbots without any programming background, covering topics such as natural language processing (NLP), chatbot building platforms, and real-world deployment.
+
+*- Python for Data Science, AI & Development :* Covers essential Python skills necessary for data science, artificial intelligence, and software development, including data manipulation, machine learning, and web development.
+
+*- Developing AI Applications with Python and Flask :* Provides a comprehensive introduction to Python programming language and its applications in data science, AI, and web development, with hands-on experience in various Python libraries.
+
+*- Building AI Applications with Watson APIs :* Focuses on leveraging Watson APIs to develop AI applications, covering topics such as natural language understanding, language translation, visual recognition, and conversational interfaces.
+
+Each course is accompanied by practical projects and hands-on experience, demonstrating the application of learned concepts in real-world scenarios.
 Explore the repository to delve into the world of AI and Python development.
 
-## Course 1 : Introduction to Artificial Intelligence (AI)
+![Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg](Certificates/Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg)
+
+## Course 1 : Introduction to Artificial Intelligence (AI) 📚
 
 **About This Course :**
 
@@ -42,7 +50,7 @@ Key Applications Explored
 
 ![Module1_Introduction_to_Artificial_Intelligence_page-0001.jpg](Certificates/Module1_Introduction_to_Artificial_Intelligence_page-0001.jpg)
 
-## Course 2 : Generative AI: Introduction and Applications
+## Course 2 : Generative AI: Introduction and Applications 🎨
 
 **Overview :**
 
@@ -75,7 +83,7 @@ Key Projects.
 
 ![Module2_Generative_AI_Introduction_and_Applications_page-0001.jpg](Certificates/Module2_Generative_AI_Introduction_and_Applications_page-0001.jpg)
 
-## Course 3 : Generative AI: Prompt Engineering Basics
+## Course 3 : Generative AI: Prompt Engineering Basics 💡
 
 **Course Overview :**
 
@@ -113,7 +121,7 @@ Here are some highlights :
 
 ![Module3_Prompt_Engineering_Basics_page-0001.jpg](Certificates/Module3_Prompt_Engineering_Basics_page-0001.jpg)
 
-## Course 4 : Building AI Powered Chatbots Without Programming
+## Course 4 : Building AI Powered Chatbots Without Programming 🤖
 
 **Certification Overview :**
 
@@ -148,7 +156,7 @@ During the certification, I completed several projects to apply my learning and 
 
 ![Module4_Building_AI_Powered_Chatbots_Without_Programming_page-0001.jpg](Certificates/Module4_Building_AI_Powered_Chatbots_Without_Programming_page-0001.jpg)
 
-## Course 5 : Python for Data Science, AI & Development
+## Course 5 : Python for Data Science, AI & Development 🐍
 
 **Course Overview :**
 
@@ -185,7 +193,7 @@ Building and training machine learning models for classification and regression 
 
 ![Module5_Python_for_Data_Science_AI_&_Development_page-0001.jpg](Certificates/Module5_Python_for_Data_Science_AI_&_Development_page-0001.jpg)
 
-## Course 6 : Developing AI Applications with Python and Flask
+## Course 6 : Developing AI Applications with Python and Flask 🌐
 
 **Course Overview :**
 
@@ -213,7 +221,7 @@ Throughout this course, I gained practical experience in Python programming and 
 
 ![Module6_Developing_AI_Applications_with_Python_and_Flask_page-0001.jpg](Certificates/Module6_Developing_AI_Applications_with_Python_and_Flask_page-0001.jpg)
 
-## Course 7 : Building AI Applications with Watson APIs
+## Course 7 : Building AI Applications with Watson APIs 🧠
 
 **Certification Overview :**
 
@@ -249,7 +257,7 @@ During the certification, I completed several projects demonstrating the practic
 
 ![Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg](Certificates/Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg)
 
-Specialisation completed on **21 March 2024**
+Specialisation completed on **21 March 2024** 🎉
 
 **Link for verification :**
 
