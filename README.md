@@ -28,6 +28,13 @@ Explore the repository to delve into the world of AI and Python development.
 
 ![Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg](Certificates/Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg)
 
+Specialisation completed on **21 March 2024** 🎉
+
+**Link for verification :**
+
+https://coursera.org/verify/SHWUVC2Q8YLM
+
+
 ## 📚 Course 1 : Introduction to Artificial Intelligence (AI)
 
 **About This Course :**
@@ -256,10 +263,3 @@ During the certification, I completed several projects demonstrating the practic
 - Creating an image recognition system using Watson Visual Recognition for object detection.
 
 ![Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg](Certificates/Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg)
-
-Specialisation completed on **21 March 2024** 🎉
-
-**Link for verification :**
-
-https://coursera.org/verify/SHWUVC2Q8YLM
-
