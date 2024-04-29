@@ -7,7 +7,7 @@ Welcome to my GitHub repository showcasing the culmination of my journey through
 
 Throughout these courses, I've delved into the intricacies of AI technologies, exploring their applications across diverse domains such as healthcare, finance, education, and more. From understanding the foundational principles of AI to mastering advanced techniques like prompt engineering and generative AI, each course has provided invaluable insights and hands-on experience.
 
-**Key highlights of this repository include :**
+**🌟 Key highlights of this repository include :**
 
 *- Introduction to Artificial Intelligence (AI) :* Explores the fundamental impact of AI across various sectors, from healthcare and education to law enforcement and customer service.
 
@@ -28,7 +28,7 @@ Explore the repository to delve into the world of AI and Python development.
 
 ![Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg](Certificates/Module7_Building_AI_Applications_with_Watson_APIs_page-0001.jpg)
 
-## Course 1 : Introduction to Artificial Intelligence (AI) 📚
+## 📚 Course 1 : Introduction to Artificial Intelligence (AI)
 
 **About This Course :**
 
@@ -50,7 +50,7 @@ Key Applications Explored
 
 ![Module1_Introduction_to_Artificial_Intelligence_page-0001.jpg](Certificates/Module1_Introduction_to_Artificial_Intelligence_page-0001.jpg)
 
-## Course 2 : Generative AI: Introduction and Applications 🎨
+## 🎨 Course 2 : Generative AI: Introduction and Applications
 
 **Overview :**
 
@@ -83,7 +83,7 @@ Key Projects.
 
 ![Module2_Generative_AI_Introduction_and_Applications_page-0001.jpg](Certificates/Module2_Generative_AI_Introduction_and_Applications_page-0001.jpg)
 
-## Course 3 : Generative AI: Prompt Engineering Basics 💡
+## 💡 Course 3 : Generative AI: Prompt Engineering Basics
 
 **Course Overview :**
 
@@ -121,7 +121,7 @@ Here are some highlights :
 
 ![Module3_Prompt_Engineering_Basics_page-0001.jpg](Certificates/Module3_Prompt_Engineering_Basics_page-0001.jpg)
 
-## Course 4 : Building AI Powered Chatbots Without Programming 🤖
+## 🤖 Course 4 : Building AI Powered Chatbots Without Programming
 
 **Certification Overview :**
 
@@ -156,7 +156,7 @@ During the certification, I completed several projects to apply my learning and 
 
 ![Module4_Building_AI_Powered_Chatbots_Without_Programming_page-0001.jpg](Certificates/Module4_Building_AI_Powered_Chatbots_Without_Programming_page-0001.jpg)
 
-## Course 5 : Python for Data Science, AI & Development 🐍
+## 🐍 Course 5 : Python for Data Science, AI & Development
 
 **Course Overview :**
 
@@ -193,7 +193,7 @@ Building and training machine learning models for classification and regression 
 
 ![Module5_Python_for_Data_Science_AI_&_Development_page-0001.jpg](Certificates/Module5_Python_for_Data_Science_AI_&_Development_page-0001.jpg)
 
-## Course 6 : Developing AI Applications with Python and Flask 🌐
+## 🌐 Course 6 : Developing AI Applications with Python and Flask
 
 **Course Overview :**
 
@@ -221,7 +221,7 @@ Throughout this course, I gained practical experience in Python programming and 
 
 ![Module6_Developing_AI_Applications_with_Python_and_Flask_page-0001.jpg](Certificates/Module6_Developing_AI_Applications_with_Python_and_Flask_page-0001.jpg)
 
-## Course 7 : Building AI Applications with Watson APIs 🧠
+## 🧠 Course 7 : Building AI Applications with Watson APIs
 
 **Certification Overview :**
 
